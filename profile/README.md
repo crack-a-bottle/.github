@@ -7,4 +7,4 @@ crack-a-bottle is a (currently solo) project that aims to create utility tools a
 [dencodeme](https://github.com/crack-a-bottle/dencodeme) - Encode/Decode data using various encoding schemes.
 
 ## License
-crack-a-bottle is licensed under the [MIT License](./LICENSE).
+crack-a-bottle is licensed under the [MIT License](../LICENSE).
